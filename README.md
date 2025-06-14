@@ -1,0 +1,42 @@
+# 🌸✨ ClassGPT — Your Kawaii AI Study Companion 💻📚
+
+> *Powered by AI. Styled with anime vibes. Designed to make studying ✨less pain, more gain✨*
+
+![Screenshot](./screenshot.png)
+
+---
+
+## 💡 What's ClassGPT?
+
+ClassGPT is your ✨kawaii✨ AI-powered study buddy! Whether you're cramming for finals or just curious about Machine Learning, ClassGPT creates:
+
+📓 Notes | 🖼️ Slides | ❓ MCQs — **Automatically!**
+
+Just type a topic, and let ClassGPT sprinkle some AI magic 💫
+
+---
+
+## 🌟 Features
+
+| 🔥 Feature | 🌸 Description |
+|-----------|----------------|
+| 🧠 Smart AI Engine | Generates topic-wise **Notes**, **Slides**, and **Quizzes** in seconds. |
+| 🎴 Anime UI | Beautiful gradient interface, soft cards, and fluid tabs inspired by anime dashboards. |
+| 📚 All-in-One Mode | Choose specific material or get everything at once. |
+| 🌐 100% Web-Based | No install. No stress. Just open and study. |
+
+---
+
+## 🖥️ Screenshot
+
+<img src="./screenshot.png" alt="ClassGPT Screenshot" width="100%" />
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/byteakp/Class-GPT-Frontend-.git
+cd Class-GPT-Frontend-
+npm install
+npm run dev
