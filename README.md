@@ -2,7 +2,8 @@
 
 > *Powered by AI. Styled with anime vibes. Designed to make studying ✨less pain, more gain✨*
 
-![Screenshot](./screenshot.png)
+![image](https://github.com/user-attachments/assets/97d5d5df-5230-495d-809e-a0f3bfa6aee5)
+
 
 ---
 
@@ -29,7 +30,7 @@ Just type a topic, and let ClassGPT sprinkle some AI magic 💫
 
 ## 🖥️ Screenshot
 
-<img src="./screenshot.png" alt="ClassGPT Screenshot" width="100%" />
+<img src="https://github.com/user-attachments/assets/4a374c08-5205-49f1-acd0-cafa78414f81" alt="ClassGPT Screenshot" width="100%" />
 
 ---
 
